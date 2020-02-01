@@ -1,3 +1,4 @@
+# Tu dodaję tekst
 import turtle
 z = turtle.Turtle()
 
