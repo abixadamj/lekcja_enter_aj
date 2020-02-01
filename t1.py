@@ -9,7 +9,7 @@ def kwadrat(pozycja, bok):
     for k in range(4):
         z.fd(bok)
         z.rt(90)
-
+co kolwiek
 
 b = 10
 p = 20, 60
